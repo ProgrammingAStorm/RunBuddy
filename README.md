@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://programmingastorm.github.io/bcProject/
 
 ## Contribution
-Made with ❤ by Mark Pavel
+Made with ❤ by Mark
