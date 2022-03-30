@@ -290,7 +290,7 @@ footer a {
     color:  #024e76;
 }
 
-@media screen and (max-width: 980px) {w
+@media screen and (max-width: 980px) {
     header {
         padding-bottom: 0;
         justify-content: center;
