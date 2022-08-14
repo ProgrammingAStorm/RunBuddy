@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://programmingastorm.github.io/bcProject/
+https://programmingastorm.github.io/RunBuddy/
 
 ## Contribution
 Made with ❤ by Mark Pavel
